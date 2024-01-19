@@ -2,7 +2,7 @@
 
 **Project Overview:** Enhancing Atliq Hardware's Decision-Making with Data-Driven Insights
 
-Insights Link:(https://app.powerbi.com/view?r=eyJrIjoiN2E2OWYzZjYtMTdkMS00NjViLWFhMTItNWNkNjgzMDcyZWExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Ad hoc request Insights and visuals:](https://app.powerbi.com/view?r=eyJrIjoiN2E2OWYzZjYtMTdkMS00NjViLWFhMTItNWNkNjgzMDcyZWExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Challenge:**
 
