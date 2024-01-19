@@ -2,8 +2,6 @@
 
 **Project Overview:** Enhancing Atliq Hardware's Decision-Making with Data-Driven Insights
 
-[Ad hoc request Insights and visuals:](https://app.powerbi.com/view?r=eyJrIjoiN2E2OWYzZjYtMTdkMS00NjViLWFhMTItNWNkNjgzMDcyZWExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 **Challenge:**
 
 Atliq Hardware, a prominent computer hardware manufacturer, seeks to bolster its data analytics team for more informed decision-making. The company faces a hurdle in swiftly and judiciously leveraging data for strategic choices.
